@@ -1,5 +1,6 @@
-# Peopleware
+# Peopleware 閱讀書摘與心得感想 分享
 James 趣讀軟體，從入門到放棄
+Peopleware： 腦力密集產業的人才管理之道（第二版）
 
 ## 1. 管理人力資源
 
