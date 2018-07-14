@@ -2,6 +2,11 @@
 ---------------
  * Peopleware： 腦力密集產業的人才管理之道（第二版）
  * Peopleware 閱讀書摘與心得感想分享
+ 
+ ![](https://raw.githubusercontent.com/Jia-Hong-Peng/peopleware/master/book1.jpg)
+ 
+ ![](https://raw.githubusercontent.com/Jia-Hong-Peng/peopleware/master/book2.jpg)
+ 
 ---------------
 
 ## 1. 管理人力資源
