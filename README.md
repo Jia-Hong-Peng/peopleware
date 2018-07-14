@@ -1,7 +1,6 @@
 # James 趣讀軟體，從入門到放棄 S01 E01
 ---------------
  * Peopleware： 腦力密集產業的人才管理之道（第二版）
- * Peopleware 閱讀書摘與心得感想分享
  
  ![](https://raw.githubusercontent.com/Jia-Hong-Peng/peopleware/master/book1.jpg)
  
@@ -42,3 +41,7 @@
 
 ----------------
 
+
+## Donate 斗內
+
+若你覺得有幫助到您，想鼓勵我繼續堅持下去不要放棄，歡迎請我喝一杯咖啡 :laughing:
