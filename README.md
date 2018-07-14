@@ -41,9 +41,14 @@
 
 ----------------
 
+## Reference
+
+  * [Peopleware：腦力密集產業的人才管理之道（增訂版）](http://www.books.com.tw/exep/assp.php/pompom/products/0010659524?utm_source=pompom&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201807)
+
+----------------
 
 ## Donate 贊助 
 
-若你覺得有幫助到您，想鼓勵我繼續堅持下去不要放棄，歡迎請我喝一杯咖啡 :laughing:
+ * 若你覺得有幫助到您，想鼓勵我繼續堅持下去不要放棄，歡迎請我喝一杯咖啡 :laughing:
 
 [![](https://raw.githubusercontent.com/Jia-Hong-Peng/peopleware/master/Donate.png)](https://payment.opay.tw/Broadcaster/Donate/D4C8BE0C8F3CB9E9F625A2EF3BD97D42)
