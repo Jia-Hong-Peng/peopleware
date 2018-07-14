@@ -46,6 +46,4 @@
 
 若你覺得有幫助到您，想鼓勵我繼續堅持下去不要放棄，歡迎請我喝一杯咖啡 :laughing:
 
-![alt tag](https://raw.githubusercontent.com/Jia-Hong-Peng/peopleware/master/Donate.png)
-
-[斗內](https://payment.opay.tw/Broadcaster/Donate/D4C8BE0C8F3CB9E9F625A2EF3BD97D42)
+[![](https://raw.githubusercontent.com/Jia-Hong-Peng/peopleware/master/Donate.png)](https://payment.opay.tw/Broadcaster/Donate/D4C8BE0C8F3CB9E9F625A2EF3BD97D42)
