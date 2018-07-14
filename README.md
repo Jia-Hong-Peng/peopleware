@@ -45,3 +45,5 @@
 ## Donate 斗內
 
 若你覺得有幫助到您，想鼓勵我繼續堅持下去不要放棄，歡迎請我喝一杯咖啡 :laughing:
+
+[贊助者付款](https://payment.opay.tw/Broadcaster/Donate/D4C8BE0C8F3CB9E9F625A2EF3BD97D42)
